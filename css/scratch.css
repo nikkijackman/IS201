@@ -1,0 +1,54 @@
+body{
+    background-image: url(https://cdn.wallpapersafari.com/30/9/wfUH0d.png);
+    background-repeat: repeat;
+    background-size: cover;
+    color: aliceblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+img{
+    padding: 2px;
+    width: 100%;
+}
+
+.centerme{
+    display: block;
+    margin: auto;
+}
+
+h1{
+    text-align: center;
+}
+
+ol{
+    background-color: rgba(30, 30, 100, 0.700);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.imgwidth{
+    width: 75%;
+}
+
+.footer{
+    z-index: 1;
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+    left: 0px;
+    display: block;
+    text-align: center;
+    background-color: rgba(30, 30, 100, 0.800);
+    color: azure;
+}
+
+.header{
+    top: 0px;
+}
+
+.mainbody{
+    top: 400px;
+}
+
+.links{
+    color: aliceblue;
+}

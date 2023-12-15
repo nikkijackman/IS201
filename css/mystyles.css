@@ -1,0 +1,19 @@
+h2{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.darkcolor{
+    background-color: rgb(200, 80, 80) !important;
+}
+
+h1{
+    color: rgb(200, 80, 80) !important;
+}
+
+.newcolor{
+    color: rgb(200, 80, 80);
+}
+
+.social-icons .social-icon:hover{
+    background-color: rgb(200, 80, 80);
+}
